@@ -143,7 +143,7 @@
 
 kevinfd12@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/kevinfd12/LifeExpectancy-DataMining)
+Project Link: [https://github.com/github_username/repo_name](https://github.com/kevinfd12/AutomobilePriceInfluencers)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
